@@ -7,3 +7,4 @@ def changeValues(a, b):
     return str
 
 print(changeValues(3, 5))
+print("Exit")
